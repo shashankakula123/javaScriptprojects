@@ -1,0 +1,126 @@
+
+*{
+
+  margin:0px;
+  padding:0px;
+    font-family: "Montserrat", sans-serif;
+    box-sizing: border-box;
+}
+
+
+#left-column{
+  width:40%;
+  box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+  
+}
+
+.mens{
+  width:100%;
+  margin-top:50px;
+}
+
+#right-column{
+width:60%;
+   margin-top: 40px;
+    padding-left: 30px; 
+    
+}
+.heading{
+  font-weight: 300;
+    font-size: 44px;
+    letter-spacing: -2px;
+  padding-right:10px;
+}
+.brand{
+  margin-top: 20px;
+    font-weight: 200;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: rgb(27, 25, 25);
+}
+.price{
+  margin-top: 20px;
+    font-weight: 200;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: rgb(27, 25, 25);
+}
+.descri{
+  margin-top: 20px;
+    font-weight: 200;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: rgb(27, 25, 25);
+}
+.para{
+margin-top: 20px;
+    font-size: 16px;
+    font-weight: 300;
+    color: #86939e;
+}
+
+.pro{
+margin-top: 20px;
+    font-weight: 200;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: rgb(27, 25, 25);
+}
+
+.mini{
+  margin: 5px;
+    width: 15%;
+    height: 30%;
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 6px;
+  
+}
+#shoplane{
+  max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product{
+  margin-bottom:20px;
+}
+.empty{
+ border: 2px solid white;
+ 
+   
+}
+.some{
+   margin: 5px;
+    width: 15%;
+    height: 30%;
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 6px;
+  border: 2px solid #009688;
+}
+
+.other{
+  margin: 5px;
+    width: 15%;
+    height: 30%;
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 6px;
+}
+
+button{
+  font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    padding: 10px 20px;
+    letter-spacing: 2px;
+  background-color:#009688;
+  border-radius: 4px;
+  border:none;
+    cursor: pointer;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
